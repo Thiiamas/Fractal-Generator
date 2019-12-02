@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.scalafx</groupId>
+    <artifactId>scalafx_2.13</artifactId>
+    <packaging>jar</packaging>
+    <description>The ScalaFX framework</description>
+    <url>http://www.scalafx.org/</url>
+    <version>12.0.2-R18</version>
+    <licenses>
+        <license>
+            <name>BSD</name>
+            <url>https://github.com/scalafx/scalafx/blob/master/LICENSE.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <name>scalafx</name>
+    <inceptionYear>2011</inceptionYear>
+    <organization>
+        <name>org.scalafx</name>
+        <url>http://www.scalafx.org/</url>
+    </organization>
+    <scm>
+        <url>https://github.com/scalafx/scalafx</url>
+        <connection>git@github.com:scalafx/scalafx.git</connection>
+    </scm>
+    <developers>
+        <developer>
+            <id>scalafx</id>
+            <name>scalafx</name>
+            <url>https://github.com/scalafx</url>
+            <email>scalafx-dev@googlegroups.com</email>
+        </developer>
+    </developers>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.13.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-reflect</artifactId>
+            <version>2.13.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.scalatest</groupId>
+            <artifactId>scalatest_2.13</artifactId>
+            <version>3.0.8</version>
+            <scope>test</scope>
+        </dependency>
+        <!--provided dependency org.openjfx#javafx-base;12.0.2 has been omitted-->
+        <!--provided dependency org.openjfx#javafx-controls;12.0.2 has been omitted-->
+        <!--provided dependency org.openjfx#javafx-fxml;12.0.2 has been omitted-->
+        <!--provided dependency org.openjfx#javafx-graphics;12.0.2 has been omitted-->
+        <!--provided dependency org.openjfx#javafx-media;12.0.2 has been omitted-->
+        <!--provided dependency org.openjfx#javafx-swing;12.0.2 has been omitted-->
+        <!--provided dependency org.openjfx#javafx-web;12.0.2 has been omitted-->
+    </dependencies>
+</project>

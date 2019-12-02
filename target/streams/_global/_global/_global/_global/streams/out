@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [hellofx / Compile / run] Found inputs: C:\Users\Florian\Desktop\Hellofx\*.{java,scala},C:\Users\Florian\Desktop\Hellofx\src\main\java\**\*.{java,scala},C:\Users\Florian\Desktop\Hellofx\src\main\resources\**\*,C:\Users\Florian\Desktop\Hellofx\src\main\scala\**\*.{java,scala},C:\Users\Florian\Desktop\Hellofx\src\main\scala-2.13\**\*.{java,scala}[0m
+[0m[[0m[0mdebug[0m] [0m[0mhellofx / Compile / run - Accepted event for C:\Users\Florian\Desktop\Hellofx\src\main\scala\Painter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\Florian\Desktop\Hellofx\src\main\scala\Painter.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for hellofx/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Florian\Desktop\Hellofx\src\main\scala\Painter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Florian\Desktop\Hellofx\src\main\scala\Painter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\Florian\Desktop\Hellofx\src\main\scala\Painter.scala (previous stamp: Hash(474e88af86c27a6cad0833f28c63c46ebb014de3), current stamp: Hash(2c85f57ffa9e9cc7dd0c77cb0306190dac51e2d0))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\Florian\Desktop\Hellofx\src\main\scala\Painter.scala -> Trigger. Returning: (Update(C:\Users\Florian\Desktop\Hellofx\src\main\scala\Painter.scala, 2019-nov.-26 15:59:43.253 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\Florian\Desktop\Hellofx\src\main\scala\Painter.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\Florian\Desktop\Hellofx\src\main\scala\Painter.scala, 2019-nov.-26 15:59:43.253 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for hellofx/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m

@@ -1,0 +1,266 @@
+{
+    "version" : "1.1.2",
+    "project" : {
+        "name" : "hellofx",
+        "directory" : "C:\\Users\\Florian\\Desktop\\Hellofx",
+        "sources" : [
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\src\\main\\scala-2.13",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\src\\main\\scala",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\src\\main\\java",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\target\\scala-2.13\\src_managed\\main"
+        ],
+        "dependencies" : [
+        ],
+        "classpath" : [
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\12.0.2\\javafx-controls-12.0.2-win.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-fxml\\12.0.2\\javafx-fxml-12.0.2-win.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-web\\12.0.2\\javafx-web-12.0.2-win.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-swing\\12.0.2\\javafx-swing-12.0.2-win.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\12.0.2\\javafx-base-12.0.2.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\12.0.2\\javafx-graphics-12.0.2.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\12.0.2\\javafx-graphics-12.0.2-win.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\12.0.2\\javafx-controls-12.0.2.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-media\\12.0.2\\javafx-media-12.0.2-win.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\12.0.2\\javafx-base-12.0.2-win.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-media\\12.0.2\\javafx-media-12.0.2.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalafx\\scalafx_2.13\\12.0.2-R18\\scalafx_2.13-12.0.2-R18.jar",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.1\\scala-reflect-2.13.1.jar"
+        ],
+        "out" : "C:\\Users\\Florian\\Desktop\\Hellofx\\.bloop\\hellofx",
+        "classesDir" : "C:\\Users\\Florian\\Desktop\\Hellofx\\.bloop\\hellofx\\scala-2.13\\classes",
+        "resources" : [
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\src\\main\\resources",
+            "C:\\Users\\Florian\\Desktop\\Hellofx\\target\\scala-2.13\\resource_managed\\main"
+        ],
+        "scala" : {
+            "organization" : "org.scala-lang",
+            "name" : "scala-compiler",
+            "version" : "2.13.1",
+            "options" : [
+                "-P:semanticdb:synthetics:on",
+                "-P:semanticdb:failures:warning",
+                "-P:semanticdb:sourceroot:C:\\Users\\Florian\\Desktop\\Hellofx",
+                "-Yrangepos",
+                "-Xplugin-require:semanticdb",
+                "-Xplugin:C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalameta\\semanticdb-scalac_2.13.1\\4.2.3\\semanticdb-scalac_2.13.1-4.2.3.jar"
+            ],
+            "jars" : [
+                "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar",
+                "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.1\\scala-compiler-2.13.1.jar",
+                "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\jline\\jline\\2.14.6\\jline-2.14.6.jar",
+                "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\fusesource\\jansi\\jansi\\1.12\\jansi-1.12.jar",
+                "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.1\\scala-reflect-2.13.1.jar"
+            ],
+            "setup" : {
+                "order" : "mixed",
+                "addLibraryToBootClasspath" : true,
+                "addCompilerToClasspath" : false,
+                "addExtraJarsToClasspath" : false,
+                "manageBootClasspath" : true,
+                "filterLibraryFromClasspath" : true
+            }
+        },
+        "java" : {
+            "options" : [
+            ]
+        },
+        "test" : {
+            "frameworks" : [
+                {
+                    "names" : [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names" : [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names" : [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names" : [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names" : [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options" : {
+                "excludes" : [
+                ],
+                "arguments" : [
+                ]
+            }
+        },
+        "platform" : {
+            "name" : "jvm",
+            "config" : {
+                "home" : "C:\\Program Files\\Java\\jdk1.8.0_231\\jre",
+                "options" : [
+                ]
+            },
+            "mainClass" : [
+            ]
+        },
+        "resolution" : {
+            "modules" : [
+                {
+                    "organization" : "org.scala-lang",
+                    "name" : "scala-library",
+                    "version" : "2.13.1",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "scala-library",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar"
+                        },
+                        {
+                            "name" : "scala-library",
+                            "classifier" : "sources",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.openjfx",
+                    "name" : "javafx-base",
+                    "version" : "12.0.2",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "javafx-base",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\12.0.2\\javafx-base-12.0.2.jar"
+                        },
+                        {
+                            "name" : "javafx-base",
+                            "classifier" : "sources",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-base\\12.0.2\\javafx-base-12.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.openjfx",
+                    "name" : "javafx-graphics",
+                    "version" : "12.0.2",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "javafx-graphics",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\12.0.2\\javafx-graphics-12.0.2.jar"
+                        },
+                        {
+                            "name" : "javafx-graphics",
+                            "classifier" : "sources",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-graphics\\12.0.2\\javafx-graphics-12.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.openjfx",
+                    "name" : "javafx-controls",
+                    "version" : "12.0.2",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "javafx-controls",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\12.0.2\\javafx-controls-12.0.2.jar"
+                        },
+                        {
+                            "name" : "javafx-controls",
+                            "classifier" : "sources",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\12.0.2\\javafx-controls-12.0.2-sources.jar"
+                        },
+                        {
+                            "name" : "javafx-controls",
+                            "classifier" : "win",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-controls\\12.0.2\\javafx-controls-12.0.2-win.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.openjfx",
+                    "name" : "javafx-media",
+                    "version" : "12.0.2",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "javafx-media",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-media\\12.0.2\\javafx-media-12.0.2.jar"
+                        },
+                        {
+                            "name" : "javafx-media",
+                            "classifier" : "sources",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-media\\12.0.2\\javafx-media-12.0.2-sources.jar"
+                        },
+                        {
+                            "name" : "javafx-media",
+                            "classifier" : "win",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\openjfx\\javafx-media\\12.0.2\\javafx-media-12.0.2-win.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.scalafx",
+                    "name" : "scalafx_2.13",
+                    "version" : "12.0.2-R18",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "scalafx_2.13",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalafx\\scalafx_2.13\\12.0.2-R18\\scalafx_2.13-12.0.2-R18.jar"
+                        },
+                        {
+                            "name" : "scalafx_2.13",
+                            "classifier" : "sources",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scalafx\\scalafx_2.13\\12.0.2-R18\\scalafx_2.13-12.0.2-R18-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.scala-lang",
+                    "name" : "scala-reflect",
+                    "version" : "2.13.1",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "scala-reflect",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.1\\scala-reflect-2.13.1.jar"
+                        },
+                        {
+                            "name" : "scala-reflect",
+                            "classifier" : "sources",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.1\\scala-reflect-2.13.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.scala-lang",
+                    "name" : "scala-library",
+                    "version" : "2.13.1",
+                    "configurations" : "optional",
+                    "artifacts" : [
+                        {
+                            "name" : "scala-library",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar"
+                        },
+                        {
+                            "name" : "scala-library",
+                            "classifier" : "sources",
+                            "path" : "C:\\Users\\Florian\\Desktop\\Hellofx\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

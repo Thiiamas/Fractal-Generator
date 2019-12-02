@@ -1,0 +1,1989 @@
+INFO  time: initialize in 0.3s
+INFO  running 'C:\Program Files\Java\jdk1.8.0_231\jre\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Florian\AppData\Local\Temp\metals1731532368082423838\sbt-launch.jar metalsEnable bloopInstall'
+INFO  [info] Loading settings for project global-plugins from metals.sbt ...
+INFO  [info] Loading global plugins from C:\Users\Florian\.sbt\1.0\plugins
+INFO  [info] Loading project definition from C:\Users\Florian\Desktop\Hellofx\project
+INFO  [success] Generated .bloop\hellofx-build.json
+INFO  [success] Total time: 1 s, completed 29 nov. 2019 12:44:59
+INFO  [info] Loading settings for project hellofx from build.sbt ...
+INFO  [info] Set current project to Hellofx (in build file:/C:/Users/Florian/Desktop/Hellofx/)
+INFO  [info] Set current project to Hellofx (in build file:/C:/Users/Florian/Desktop/Hellofx/)
+INFO  [info] semanticdb-scalac is enabled
+WARN  no build target: C:\Users\Florian\Desktop\Hellofx\src\main\scala\Hello.scala
+INFO  [success] Generated .bloop\hellofx-test.json
+INFO  [success] Generated .bloop\hellofx.json
+INFO  [success] Total time: 15 s, completed 29 nov. 2019 12:45:16
+INFO  build tool exit: 0
+INFO  time: ran 'sbt bloopInstall' in 37s
+INFO  running embedded 'bloop bsp --protocol tcp --host 127.0.0.1 --port 49953'
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/bloop-frontend_2.12-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/bloop-frontend_2.12-1.3.2.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/bloop-frontend_2.12-1.3.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/bloop-frontend_2.12-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/
+Downloading https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/monix_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/sockets-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/monix_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/bloop-backend_2.12-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/sockets-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/bloop-backend_2.12-1.3.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/monix_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/zaxxer/nuprocess/1.2.4/nuprocess-1.2.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/bloop-backend_2.12-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/bloop-config_2.12-1.3.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/bloop-backend_2.12-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/bloop-config_2.12-1.3.2.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/sockets-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/scalaz-core_2.12-7.2.20.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/sockets-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/scalaz-core_2.12-7.2.20.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/monix_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/case-app_2.12-1.2.0-faster-compile-time.pom
+Downloaded https://repo1.maven.org/maven2/com/zaxxer/nuprocess/1.2.4/nuprocess-1.2.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/case-app_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/bloop-config_2.12-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/bloop-config_2.12-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/scalaz-core_2.12-7.2.20.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/scalaz-core_2.12-7.2.20.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/zaxxer/nuprocess/1.2.4/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/case-app_2.12-1.2.0-faster-compile-time.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/case-app_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/
+Downloaded https://repo1.maven.org/maven2/com/zaxxer/nuprocess/1.2.4/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/bsp4s_2.12-2.0.0-M4.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/bsp4s_2.12-2.0.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/nailgun-server-ee3c4343.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/nailgun-server-ee3c4343.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/bsp4s_2.12-2.0.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/coursier-cache_2.12-1.1.0-M14-4.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/case-app-util_2.12-1.2.0-faster-compile-time.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/case-app-util_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/nailgun-server-ee3c4343.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/coursier-cache_2.12-1.1.0-M14-4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/bsp4s_2.12-2.0.0-M4.pom
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/jna-platform-4.5.0.pom
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/coursier-cache_2.12-1.1.0-M14-4.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/case-app-annotations_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/case-app-util_2.12-1.2.0-faster-compile-time.pom
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/jna-platform-4.5.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/case-app-util_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/coursier-cache_2.12-1.1.0-M14-4.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom.sha1
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/jna-platform-4.5.0.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/nailgun-server-ee3c4343.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/case-app-annotations_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/case-app-annotations_2.12-1.2.0-faster-compile-time.pom
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/jna-platform-4.5.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/monix-execution_2.12-2.3.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/monix-execution_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/case-app-annotations_2.12-1.2.0-faster-compile-time.pom
+Downloading https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/monix-execution_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/scalaz-concurrent_2.12-7.2.20.pom
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/monix-execution_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/brave-5.6.1.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/brave-5.6.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/monix-eval_2.12-2.3.3.pom
+Downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/monix-eval_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/zipkin-sender-urlconnection-2.7.15.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/scalaz-concurrent_2.12-7.2.20.pom
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/scalaz-concurrent_2.12-7.2.20.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/brave-5.6.1.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/zipkin-sender-urlconnection-2.7.15.pom
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/brave-5.6.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/monix-eval_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/monix-eval_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/zinc_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/io/github/soc/directories/10/directories-10.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/zinc_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/zipkin-sender-urlconnection-2.7.15.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/github/soc/directories/10/directories-10.pom
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/scalaz-concurrent_2.12-7.2.20.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/circe-derivation_2.12-0.9.0-M3.pom
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/zipkin-sender-urlconnection-2.7.15.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/circe-derivation_2.12-0.9.0-M3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/zinc_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/coursier_2.12-1.1.0-M14-4.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/zinc_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/asm-util-6.0.pom
+Downloaded https://repo1.maven.org/maven2/io/github/soc/directories/10/directories-10.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/asm-util-6.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/github/soc/directories/10/directories-10.pom
+Downloading https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/zt-zip-1.13.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/circe-derivation_2.12-0.9.0-M3.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/circe-derivation_2.12-0.9.0-M3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/circe-parser_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/circe-parser_2.12-0.9.3.pom
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/coursier_2.12-1.1.0-M14-4.pom
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/coursier_2.12-1.1.0-M14-4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/asm-util-6.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/test-agent-1.0.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/zt-zip-1.13.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/test-agent-1.0.4.pom
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/asm-util-6.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/zt-zip-1.13.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/circe-parser_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/circe-parser_2.12-0.9.3.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/monix-reactive_2.12-2.3.3.pom
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/coursier_2.12-1.1.0-M14-4.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/monix-reactive_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/test-agent-1.0.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/diffutils-1.3.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/test-agent-1.0.4.pom
+Downloaded https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/zt-zip-1.13.pom.sha1
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/librarymanagement-ivy_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/librarymanagement-ivy_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/monix-reactive_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/monix-types_2.12-2.3.3.pom
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/monix-reactive_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/monix-types_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/diffutils-1.3.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/librarymanagement-ivy_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/asm-6.0.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/asm-6.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/monix-types_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/librarymanagement-ivy_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/monix-types_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/asm-6.0.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/asm-6.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/
+Downloading https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/
+Downloading https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/
+Downloading https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/
+Downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/
+Downloading https://repo1.maven.org/maven2/io/github/soc/directories/10/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/
+Downloaded https://repo1.maven.org/maven2/io/github/soc/directories/10/
+Downloading https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/
+Downloading https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/
+Downloading https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/
+Downloading https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/brave-parent-5.6.1.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/brave-parent-5.6.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/asm-parent-6.0.pom
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/asm-parent-6.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/zipkin-reporter-parent-2.7.15.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/zipkin-reporter-parent-2.7.15.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/zipkin-reporter-parent-2.7.15.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/zipkin-reporter-parent-2.7.15.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/asm-parent-6.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/asm-parent-6.0.pom
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/brave-parent-5.6.1.pom
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/brave-parent-5.6.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/
+Downloading https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
+Downloading https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
+Downloaded https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/ow2/1.3/
+Downloaded https://repo1.maven.org/maven2/org/ow2/ow2/1.3/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/circe-derivation_2.12-0.9.0-M4.pom
+Downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/circe-derivation_2.12-0.9.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/circe-derivation_2.12-0.9.0-M4.pom
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/lsp4s_2.12-0.2.0.pom
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/circe-derivation_2.12-0.9.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/lsp4s_2.12-0.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/zipkin-2.12.1.pom
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/zipkin-reporter-2.7.15.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/lsp4s_2.12-0.2.0.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/zipkin-reporter-2.7.15.pom
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/lsp4s_2.12-0.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/zipkin-2.12.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/zipkin-2.12.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/scalaz-effect_2.12-7.2.20.pom
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/zipkin-reporter-2.7.15.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/zipkin-reporter-2.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/scalaz-effect_2.12-7.2.20.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/argonaut-shapeless_6.2_2.12-1.2.0-M11.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom
+Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/argonaut-shapeless_6.2_2.12-1.2.0-M11.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/zipkin-2.12.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/zinc-classfile_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/scalaz-effect_2.12-7.2.20.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/zinc-classfile_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/zinc-compile-core_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/scalaz-effect_2.12-7.2.20.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom
+Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/argonaut-shapeless_6.2_2.12-1.2.0-M11.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/librarymanagement-core_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/argonaut-shapeless_6.2_2.12-1.2.0-M11.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/librarymanagement-core_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/zinc-classfile_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/zinc-classfile_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/jctools-core-2.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/zinc-compile-core_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/jctools-core-2.0.1.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/zinc-core_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/librarymanagement-core_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/circe-core_2.12-0.9.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/librarymanagement-core_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/zinc-core_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/zinc-compile-core_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/jctools-core-2.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/circe-core_2.12-0.9.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/jctools-core-2.0.1.pom
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/zinc-core_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/circe-core_2.12-0.9.3.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/zinc-core_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/zinc-persist_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/zinc-persist_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/zinc-compile-core_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/circe-core_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/asm-tree-6.0.pom
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.pom
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/coursier-core_2.12-1.1.0-M14-4.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/zinc-persist_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/zinc-persist_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/asm-tree-6.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.pom
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/sjson-new-core_2.12-0.8.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/asm-tree-6.0.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/sjson-new-core_2.12-0.8.0.pom
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/coursier-core_2.12-1.1.0-M14-4.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/circe-jawn_2.12-0.9.3.pom
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/circe-jawn_2.12-0.9.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/coursier-core_2.12-1.1.0-M14-4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/asm-tree-6.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/sjson-new-core_2.12-0.8.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/sjson-new-core_2.12-0.8.0.pom
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/circe-jawn_2.12-0.9.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/circe-jawn_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/coursier-core_2.12-1.1.0-M14-4.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/
+Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/
+Downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/
+Downloaded https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/
+Downloading https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/
+Downloaded https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/protobuf-parent-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/protobuf-parent-3.7.0.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/parent-2.12.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/slf4j-parent-1.7.26.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/slf4j-parent-1.7.26.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/parent-2.12.1.pom
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/protobuf-parent-3.7.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/protobuf-parent-3.7.0.pom
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/slf4j-parent-1.7.26.pom
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/slf4j-parent-1.7.26.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/parent-2.12.1.pom
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/parent-2.12.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/protobuf-bom-3.7.0.pom
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/protobuf-bom-3.7.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/protobuf-bom-3.7.0.pom
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/protobuf-bom-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/zinc-apiinfo_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/okhttp-urlconnection-3.7.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/gigahorse-okhttp_2.12-0.3.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/gigahorse-okhttp_2.12-0.3.0.pom
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/gigahorse-okhttp_2.12-0.3.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/zinc-apiinfo_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/sbinary_2.12-0.4.4.pom
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/okhttp-urlconnection-3.7.0.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/zinc-classpath_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/util-logging_2.12-1.2.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/gigahorse-okhttp_2.12-0.3.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/util-logging_2.12-1.2.1.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/zinc-apiinfo_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/argonaut_2.12-6.2.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/sbinary_2.12-0.4.4.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/zinc-classpath_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/zinc-classpath_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/argonaut_2.12-6.2.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/zinc-apiinfo_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/scalapb-runtime_2.12-0.8.0-RC1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/util-logging_2.12-1.2.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/okhttp-urlconnection-3.7.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/util-logging_2.12-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/util-control_2.12-1.2.1.pom
+Downloaded https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/argonaut_2.12-6.2.3.pom
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/scalapb-runtime_2.12-0.8.0-RC1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/zinc-classpath_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/util-control_2.12-1.2.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/argonaut_2.12-6.2.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/scalapb-runtime_2.12-0.8.0-RC1.pom
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.pom
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/okhttp-urlconnection-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/circe-numbers_2.12-0.9.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/util-control_2.12-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/circe-numbers_2.12-0.9.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/scalapb-runtime_2.12-0.8.0-RC1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.10/scala-compiler-2.12.10.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/util-control_2.12-1.2.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/sbinary_2.12-0.4.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/util-cache_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/enumeratum_2.12-1.5.13.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/circe-numbers_2.12-0.9.3.pom
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/enumeratum-circe_2.12-1.5.17.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.10/scala-compiler-2.12.10.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/util-cache_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/circe-numbers_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/enumeratum-circe_2.12-1.5.17.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/util-cache_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/enumeratum_2.12-1.5.13.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/sbinary_2.12-0.4.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/enumeratum_2.12-1.5.13.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/compiler-interface-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/util-cache_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/compiler-interface-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/enumeratum-circe_2.12-1.5.17.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.pom
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/enumeratum-circe_2.12-1.5.17.pom
+Downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/jsch-0.1.46.pom
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/enumeratum_2.12-1.5.13.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/scala-parser-combinators_2.12-1.0.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.10/scala-reflect-2.12.10.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/compiler-interface-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/scala-parser-combinators_2.12-1.0.5.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/compiler-interface-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/jawn-parser_2.12-0.11.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.pom
+Downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/jawn-parser_2.12-0.11.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/jsch-0.1.46.pom
+Downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/jsch-0.1.46.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/scala-parser-combinators_2.12-1.0.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/jsonrpc_2.12-0.2.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.10/scala-reflect-2.12.10.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/jsonrpc_2.12-0.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/scala-parser-combinators_2.12-1.0.5.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/util-position_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/jawn-parser_2.12-0.11.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/util-position_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/jawn-parser_2.12-0.11.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/jsch-0.1.46.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/util-relation_2.12-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/util-relation_2.12-1.2.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/jsonrpc_2.12-0.2.0.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/cats-core_2.12-1.0.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/jsonrpc_2.12-0.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/cats-core_2.12-1.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/util-position_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/util-position_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/util-relation_2.12-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/util-relation_2.12-1.2.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/cats-core_2.12-1.0.1.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/cats-core_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/
+Downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.10/
+Downloaded https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.10/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.10/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/
+Downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/
+Downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/
+Downloading https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.10/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/
+Downloaded https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/parent-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/parent-3.7.0.pom
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/parent-3.7.0.pom
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/parent-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/util-interface-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/enumeratum-macros_2.12-1.5.9.pom
+Downloading https://repo1.maven.org/maven2/jline/jline/2.14.4/jline-2.14.4.pom
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/enumeratum-macros_2.12-1.5.9.pom.sha1
+Downloading https://repo1.maven.org/maven2/jline/jline/2.14.4/jline-2.14.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/apple-file-events-1.3.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/util-interface-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/apple-file-events-1.3.2.pom
+Downloaded https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/apple-file-events-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.pom
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/enumeratum-macros_2.12-1.5.9.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/scribe_2.12-2.5.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/jline/jline/2.14.4/jline-2.14.4.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/util-interface-1.2.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/apple-file-events-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/enumeratum-macros_2.12-1.5.9.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/gigahorse-core_2.12-0.3.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/jline/jline/2.14.4/jline-2.14.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/gigahorse-core_2.12-0.3.0.pom
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/fastparse_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/fastparse_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/gigahorse-core_2.12-0.3.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/scribe_2.12-2.5.0.pom
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/scribe_2.12-2.5.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/cats-core_2.12-1.1.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/util-interface-1.2.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/cats-kernel_2.12-1.0.1.pom
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/gigahorse-core_2.12-0.3.0.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/cats-core_2.12-1.1.0.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/fastparse_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/sjson-new-scalajson_2.12-0.8.2.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/fastparse_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/cats-kernel_2.12-1.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/scribe_2.12-2.5.0.pom
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/cats-core_2.12-1.1.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/cats-macros_2.12-1.0.1.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/cats-kernel_2.12-1.0.1.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/sjson-new-scalajson_2.12-0.8.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/cats-core_2.12-1.1.0.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/cats-macros_2.12-1.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/sjson-new-scalajson_2.12-0.8.2.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/compiler-bridge_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/cats-kernel_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/machinist_2.12-0.6.2.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/cats-macros_2.12-1.0.1.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/sjson-new-core_2.12-0.8.2.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/cats-macros_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/machinist_2.12-0.6.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/compiler-bridge_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/sjson-new-murmurhash_2.12-0.8.0.pom
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/sjson-new-scalajson_2.12-0.8.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/sjson-new-core_2.12-0.8.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/compiler-bridge_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/machinist_2.12-0.6.2.pom
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/sjson-new-core_2.12-0.8.2.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/sjson-new-murmurhash_2.12-0.8.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/machinist_2.12-0.6.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/sjson-new-murmurhash_2.12-0.8.0.pom
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/sjson-new-core_2.12-0.8.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/compiler-bridge_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/lenses_2.12-0.8.0-RC1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.pom
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/sjson-new-murmurhash_2.12-0.8.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/lenses_2.12-0.8.0-RC1.pom
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.pom
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/lenses_2.12-0.8.0-RC1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/
+Downloading https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/
+Downloaded https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/
+Downloaded https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/lenses_2.12-0.8.0-RC1.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/
+Downloading https://repo1.maven.org/maven2/jline/jline/2.14.4/
+Downloaded https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/
+Downloading https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/
+Downloaded https://repo1.maven.org/maven2/jline/jline/2.14.4/
+Downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/
+Downloading https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/
+Downloaded https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/log4j-2.8.1.pom
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/log4j-2.8.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/log4j-2.8.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/log4j-2.8.1.pom
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/
+Downloading https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/logging-parent-1.pom
+Downloading https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/logging-parent-1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/logging-parent-1.pom
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/logging-parent-1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/
+Downloading https://repo1.maven.org/maven2/org/apache/apache/18/apache-18.pom
+Downloading https://repo1.maven.org/maven2/org/apache/apache/18/apache-18.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/apache/apache/18/apache-18.pom
+Downloaded https://repo1.maven.org/maven2/org/apache/apache/18/apache-18.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/apache/18/
+Downloaded https://repo1.maven.org/maven2/org/apache/apache/18/
+Downloading https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/ssl-config-core_2.12-0.2.2.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/cats-kernel_2.12-1.1.0.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/ssl-config-core_2.12-0.2.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/cats-kernel_2.12-1.1.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/perfolation_2.12-1.0.2.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/fastparse-utils_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/cats-kernel_2.12-1.1.0.pom
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/perfolation_2.12-1.0.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/ssl-config-core_2.12-0.2.2.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/fastparse-utils_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/ssl-config-core_2.12-0.2.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/fastparse-utils_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/perfolation_2.12-1.0.2.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/cats-macros_2.12-1.1.0.pom
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/perfolation_2.12-1.0.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/cats-macros_2.12-1.1.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.pom
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/cats-macros_2.12-1.1.0.pom
+Downloading https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/scribe-macros_2.12-2.5.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/fastparse-utils_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/scribe-macros_2.12-2.5.0.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/cats-kernel_2.12-1.1.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/cats-macros_2.12-1.1.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.pom
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/scribe-macros_2.12-2.5.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/scribe-macros_2.12-2.5.0.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/
+Downloaded https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/
+Downloading https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/okio-parent-1.12.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/okio-parent-1.12.0.pom
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/okio-parent-1.12.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/okio-parent-1.12.0.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/perfolation-macros_2.12-1.0.2.pom
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/perfolation-macros_2.12-1.0.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/perfolation-macros_2.12-1.0.2.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/perfolation-macros_2.12-1.0.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/
+The server is listening for incoming connections at tcp://127.0.0.1:49953...
+Accepted incoming BSP client connection at tcp://127.0.0.1:49953
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Florian\AppData\Local\scalameta\metals\cache\bsp.trace.json
+request received: build/initialize
+INFO  time: connected to build server in 1m4s
+BSP initialization handshake complete.
+INFO  time: imported build in 0.36s
+INFO  time: indexed workspace in 1.76s
+Downloading https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.1/0.7.6/mtags_2.13.1-0.7.6.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.1/0.7.6/mtags_2.13.1-0.7.6.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.1/0.7.6/mtags_2.13.1-0.7.6.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.1/0.7.6/mtags_2.13.1-0.7.6.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.1/0.7.6/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.1/0.7.6/
+INFO  compiling hellofx (6 scala sources)
+INFO  Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.1. Compiling...
+8 warnings found
+INFO    Compilation completed in 7.336s.
+INFO  time: compiled hellofx in 12s
+INFO  compiling hellofx-test (1 scala source)
+INFO  time: compiled hellofx-test in 0.86s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.45s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.43s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.26s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.26s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.3s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.96s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.79s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.79s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.94s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.03s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.91s
+nov. 29, 2019 1:02:04 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+something's wrong: no file:///c%3A/Users/Florian/Desktop/Hellofx/src/main/scala/Painter.scala in (Int, Int)RangePosition(file:///c%3A/Users/Florian/Desktop/Hellofx/src/main/scala/Painter.scala, 218, 218, 227)
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.01s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.48s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.35s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.37s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.34s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.33s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.34s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.29s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.31s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.29s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.25s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.25s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.2s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.19s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.17s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.17s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.16s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.14s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.97s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.3s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.25s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.22s
+ERROR Failed to compile 'hellofx'
+nov. 29, 2019 1:10:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1202
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.19s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.01s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.96s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.95s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.22s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.25s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.96s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.01s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.09s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.01s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.36s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.2s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.95s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.97s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.96s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.34s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.26s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.07s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.02s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.94s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.9s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.17s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.19s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.16s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.14s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.1s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.89s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.91s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.18s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.2s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.18s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.19s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.19s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.18s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.13s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.14s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.89s
+INFO  compiling hellofx (1 scala source)
+WARN  there was one deprecation warning (since 2.13.0); re-run with -deprecation for details
+INFO  time: compiled hellofx in 1s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.41s
+INFO  compiling hellofx (1 scala source)
+WARN  there was one deprecation warning (since 2.13.0); re-run with -deprecation for details
+INFO  time: compiled hellofx in 0.91s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.29s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.26s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.97s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.48s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.01s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.2s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.22s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.26s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.87s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.13s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.13s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.13s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.85s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.91s
+nov. 29, 2019 1:51:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTraceNotification
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.9s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 1.12s
+nov. 29, 2019 2:04:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/script/,Script.class)
+nov. 29, 2019 2:04:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/script/,Scriptable.class)
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+nov. 29, 2019 2:04:43 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/script/,Script.class)
+nov. 29, 2019 2:04:43 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/script/,Scriptable.class)
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.92s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.84s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.92s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.22s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.22s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.2s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.84s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.99s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.98s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 93ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 84ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 87ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 70ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.59s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.58s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.85s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.84s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.22s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.9s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.92s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.36s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.72s
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.52s
+nov. 29, 2019 2:28:18 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 84ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 68ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 73ms
+ERROR Failed to compile 'hellofx','hellofx-test'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 79ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 68ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.2s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.22s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.42s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.25s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 1s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.88s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.89s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.83s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.88s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.25s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.2s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.22s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 97ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 72ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 85ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 78ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+nov. 29, 2019 2:49:40 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+nov. 29, 2019 2:49:41 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 1.19s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.89s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.92s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.95s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.01s
+nov. 29, 2019 3:10:21 PM scala.meta.internal.pc.CompletionProvider expected$1
+AVERTISSEMENT: String index out of range: -1
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.88s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.02s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.27s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.01s
+nov. 29, 2019 3:20:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/,Combiner.class)
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.19s
+ERROR Failed to compile 'hellofx'
+nov. 29, 2019 3:21:16 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.23s
+nov. 29, 2019 3:21:34 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/,Combiner.class)
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.21s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.18s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.94s
+INFO  shutting down Metals
+shutdown request received: build/shutdown
+[0m[31m[E][0m BSP server cancelled, closing socket...
+Client in C:\Users\Florian\Desktop\Hellofx\.bloop triggered cancellation. Cancelling tasks...
+INFO  bloop exit: 0
+INFO  time: initialize in 0.27s
+INFO  skipping build import with status 'Installed'
+WARN  no build target: C:\Users\Florian\Desktop\Hellofx\src\main\scala\Hello.scala
+INFO  running embedded 'bloop bsp --protocol tcp --host 127.0.0.1 --port 59902'
+The server is listening for incoming connections at tcp://127.0.0.1:59902...
+Accepted incoming BSP client connection at tcp://127.0.0.1:59902
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Florian\AppData\Local\scalameta\metals\cache\bsp.trace.json
+request received: build/initialize
+INFO  time: connected to build server in 6.21s
+BSP initialization handshake complete.
+INFO  no build target: using presentation compiler with only scala-library
+INFO  time: imported build in 0.5s
+INFO  time: indexed workspace in 0.84s
+INFO  compiling hellofx (3 scala sources)
+INFO  time: compiled hellofx in 6.12s
+something's wrong: no file:///c%3A/Users/Florian/Desktop/Hellofx/src/main/scala/Painter.scala in (Double, Double)RangePosition(file:///c%3A/Users/Florian/Desktop/Hellofx/src/main/scala/Painter.scala, 2755, 2755, 2770)
+something's wrong: no file:///c%3A/Users/Florian/Desktop/Hellofx/src/main/scala/Painter.scala in (Double, Double)RangePosition(file:///c%3A/Users/Florian/Desktop/Hellofx/src/main/scala/Painter.scala, 2755, 2755, 2770)
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.36s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.29s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.22s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.74s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.41s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.32s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.05s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.41s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.46s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+nov. 30, 2019 6:36:55 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+nov. 30, 2019 6:37:08 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/,Combiner.class)
+nov. 30, 2019 6:38:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/,Combiner.class)
+nov. 30, 2019 6:38:08 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/,Combiner.class)
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.2s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 1.09s
+nov. 30, 2019 6:41:14 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/text/,DocText.class)
+nov. 30, 2019 6:41:14 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/text/,DocText$.class)
+nov. 30, 2019 6:41:15 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/text/,DocText.class)
+nov. 30, 2019 6:41:15 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/text/,DocText$.class)
+nov. 30, 2019 6:41:27 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/text/,DocText.class)
+nov. 30, 2019 6:41:27 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/text/,DocText$.class)
+nov. 30, 2019 6:41:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/text/,DocText.class)
+nov. 30, 2019 6:41:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/text/,DocText$.class)
+nov. 30, 2019 6:41:35 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+nov. 30, 2019 6:42:14 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+nov. 30, 2019 6:42:18 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+nov. 30, 2019 6:42:18 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+nov. 30, 2019 6:42:19 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.13s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+nov. 30, 2019 6:43:06 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/,Combiner.class)
+nov. 30, 2019 6:43:10 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/,Combiner.class)
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.19s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+nov. 30, 2019 6:43:19 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  time: compiled hellofx in 0.17s
+ERROR Failed to compile 'hellofx'
+nov. 30, 2019 6:43:21 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.91s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.53s
+nov. 30, 2019 6:43:53 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/,Combiner.class)
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.01s
+nov. 30, 2019 6:46:37 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.98s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.3s
+ERROR Failed to compile 'hellofx'
+nov. 30, 2019 6:47:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1329
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.04s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.23s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.24s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.2s
+INFO  shutting down Metals
+shutdown request received: build/shutdown
+Client in C:\Users\Florian\Desktop\Hellofx\.bloop triggered cancellation. Cancelling tasks...
+[0m[31m[E][0m BSP server cancelled, closing socket...
+INFO  bloop exit: 0
+INFO  time: initialize in 0.28s
+INFO  skipping build import with status 'Installed'
+WARN  no build target: C:\Users\Florian\Desktop\Hellofx\src\main\scala\Hello.scala
+INFO  running embedded 'bloop bsp --protocol tcp --host 127.0.0.1 --port 65039'
+The server is listening for incoming connections at tcp://127.0.0.1:65039...
+Accepted incoming BSP client connection at tcp://127.0.0.1:65039
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Florian\AppData\Local\scalameta\metals\cache\bsp.trace.json
+request received: build/initialize
+INFO  time: connected to build server in 5.3s
+BSP initialization handshake complete.
+INFO  time: imported build in 0.39s
+INFO  time: indexed workspace in 0.38s
+INFO  shutting down Metals
+shutdown request received: build/shutdown
+Client in C:\Users\Florian\Desktop\Hellofx\.bloop triggered cancellation. Cancelling tasks...
+[0m[31m[E][0m BSP server cancelled, closing socket...
+INFO  bloop exit: 0
+INFO  time: initialize in 0.26s
+INFO  skipping build import with status 'Installed'
+WARN  no build target: C:\Users\Florian\Desktop\Hellofx\src\main\scala\Hello.scala
+INFO  running embedded 'bloop bsp --protocol tcp --host 127.0.0.1 --port 64241'
+The server is listening for incoming connections at tcp://127.0.0.1:64241...
+Accepted incoming BSP client connection at tcp://127.0.0.1:64241
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Florian\AppData\Local\scalameta\metals\cache\bsp.trace.json
+request received: build/initialize
+INFO  time: connected to build server in 5.39s
+BSP initialization handshake complete.
+INFO  time: imported build in 0.38s
+INFO  time: indexed workspace in 0.44s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 4.03s
+déc. 02, 2019 3:51:25 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.84s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.38s
+déc. 02, 2019 3:57:32 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/mutable/,ParTrieMap.class)
+déc. 02, 2019 3:57:32 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/mutable/,ParTrieMap$.class)
+déc. 02, 2019 3:57:32 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/immutable/,HashMapCombiner$CreateTrie.class)
+déc. 02, 2019 3:57:32 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/immutable/,HashSetCombiner$CreateTrie.class)
+déc. 02, 2019 3:57:32 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/immutable/,HashMapCombiner$CreateGroupedTrie.class)
+déc. 02, 2019 3:57:32 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/mutable/,ParTrieMapCombiner.class)
+déc. 02, 2019 3:57:32 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+AVERTISSEMENT: no such symbol: Classfile(scala/collection/parallel/mutable/,ParTrieMapSplitter.class)
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.28s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.4s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.33s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+ERROR Failed to compile 'hellofx','hellofx-test'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.2s
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 1.67s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.35s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.39s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.34s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 1.55s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.09s
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 69ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.12s
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 3ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1s
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 62ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (3 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (3 scala sources)
+INFO  time: compiled hellofx in 0.14s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (3 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (3 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (3 scala sources)
+INFO  time: compiled hellofx in 0.1s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (3 scala sources)
+INFO  time: compiled hellofx in 0.1s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.11s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.11s
+ERROR Failed to compile 'hellofx'
+déc. 02, 2019 4:06:12 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.11s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.13s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.13s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.11s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.11s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.11s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.11s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.11s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.11s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.41s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.43s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.4s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.36s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.2s
+ERROR Failed to compile 'hellofx','hellofx-test'
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  Deduplicating compilation of hellofx from bsp client 'Metals 0.7.6' (since 22m 3.439s)
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.22s
+ERROR Failed to compile 'hellofx','hellofx-test'
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.35s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.35s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.34s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.32s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.32s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.37s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.3s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.32s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.35s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.31s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.1s
+ERROR Failed to compile 'hellofx'
+déc. 02, 2019 4:08:54 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.1s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.12s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.37s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.35s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.34s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.34s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.35s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.28s
+ERROR Failed to compile 'hellofx'
+déc. 02, 2019 4:09:40 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.31s
+ERROR Failed to compile 'hellofx'
+déc. 02, 2019 4:09:41 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (4 scala sources)
+INFO  time: compiled hellofx in 1.51s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.08s
+déc. 02, 2019 4:10:33 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.1s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 94ms
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.77s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.25s
+ERROR Failed to compile 'hellofx'
+déc. 02, 2019 4:13:50 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.99s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.85s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.59s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.01s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.93s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.79s
+déc. 02, 2019 4:19:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1749
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.24s
+ERROR Failed to compile 'hellofx'
+déc. 02, 2019 4:19:34 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.23s
+ERROR Failed to compile 'hellofx'
+déc. 02, 2019 4:19:34 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.3s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.26s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 0.27s
+ERROR Failed to compile 'hellofx'
+INFO  compiling hellofx (2 scala sources)
+INFO  time: compiled hellofx in 1.2s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.96s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.97s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.82s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.96s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 1.11s
+INFO  compiling hellofx (1 scala source)
+INFO  time: compiled hellofx in 0.79s
+INFO  compiling hellofx (1 scala source)
+ERROR code navigation does not work for the file 'C:\Users\Florian\Desktop\Hellofx\src\main\scala\Main.scala' because the build target hellofx is being compiled. Wait until compilation is finished and try again.
+ERROR code navigation does not work for the file 'C:\Users\Florian\Desktop\Hellofx\src\main\scala\Main.scala' because the build target hellofx is being compiled. Wait until compilation is finished and try again.
+ERROR code navigation does not work for the file 'C:\Users\Florian\Desktop\Hellofx\src\main\scala\Main.scala' because the build target hellofx is being compiled. Wait until compilation is finished and try again.
+ERROR code navigation does not work for the file 'C:\Users\Florian\Desktop\Hellofx\src\main\scala\Main.scala' because the build target hellofx is being compiled. Wait until compilation is finished and try again.
+INFO  time: compiled hellofx in 1.19s
+INFO  shutting down Metals
+shutdown request received: build/shutdown
+Client in C:\Users\Florian\Desktop\Hellofx\.bloop triggered cancellation. Cancelling tasks...
+[0m[31m[E][0m BSP server cancelled, closing socket...
+INFO  bloop exit: 0

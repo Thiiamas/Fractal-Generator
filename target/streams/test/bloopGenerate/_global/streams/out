@@ -1,0 +1,4 @@
+[debug] [hellofx-test] Classpath dependencies List()
+[debug] [hellofx-test] Dependencies from configurations List(hellofx)
+[debug] Bloop wrote the configuration of project 'hellofx-test' to 'C:\Users\Florian\Desktop\Hellofx\.bloop\hellofx-test.json'
+[success] Generated .bloop\hellofx-test.json
