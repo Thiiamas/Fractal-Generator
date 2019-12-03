@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1621ecd6-23da-4627-b720-286255092cb0" name="Default Changelist" comment="" />
+    <list default="true" id="1621ecd6-23da-4627-b720-286255092cb0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/API/Calculus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/API/Complex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/API/Dimensions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/META-INF/semanticdb/src/main/scala/API/Calculus.scala.semanticdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/META-INF/semanticdb/src/main/scala/API/Complex.scala.semanticdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/META-INF/semanticdb/src/main/scala/API/Dimensions.scala.semanticdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/Mandelbrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/MandelbrotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$1$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$1$$anon$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$1$$anon$4$$anon$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$1$$anon$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$10$$anon$11$$anon$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$10$$anon$11$$anon$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$10$$anon$11$$anon$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$10$$anon$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$10$$anon$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bloop/hellofx/scala-2.13/bloop-bsp-clients-classes/test-classes-Metals-YXpbClZ5Rx6hGcd8nS3dbg==/event_filters/DraggablePanelsExample$$anon$16$$anon$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metals/metals.h2.db" beforeDir="false" afterPath="$PROJECT_DIR$/.metals/metals.h2.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metals/metals.lock.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metals/metals.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metals/metals.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +40,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -31,6 +59,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -114,10 +145,22 @@
       <workItem from="1574965784824" duration="5669000" />
       <workItem from="1575031948520" duration="196000" />
       <workItem from="1575056810857" duration="1254000" />
+      <workItem from="1575375270648" duration="180000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

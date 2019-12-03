@@ -1,1 +1,33 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\hellofx_2.13-0.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\hellofx_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	API[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\API[0m
+[0m[[0m[0mdebug[0m] [0m[0m	API\Calculus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\API\Calculus.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	API\Complex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\API\Complex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	API\Dimensions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\API\Dimensions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\Main$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\Main$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\Main$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Mandelbrot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\Mandelbrot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MandelbrotTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\MandelbrotTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Polygons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Florian\Desktop\Hellofx\target\scala-2.13\classes\Polygons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
