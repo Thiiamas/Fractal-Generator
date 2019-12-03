@@ -55,13 +55,7 @@ object Main extends JFXApp {
   draw.onAction = (event:ActionEvent) => {
       poly.display("Triangles")
     }
-  val menuT = new Button("Menu")
-  menuT.onAction = (event:ActionEvent) => {
-    MainStage.scene = startScene
-  }
-  val toolbarT = new ToolBar()
-  toolbarT.content.addAll(menuT,draw)
-  trianglePane.children.add(toolbarT)
+  trianglePane.children.add(draw)
   polygonsScene.root = trianglePane
 
   //Scene used for mandelbrot and other complex fractals
@@ -184,7 +178,7 @@ object Main extends JFXApp {
  //Button change the current toolbar to the complex one (ActionEvent defined later)
  val DrawFromPoint = new Button("FromPoint")
   val toolBar = new ToolBar();
-  toolBar.items.addAll(menu,reset,buttonTest,zoom,slider,DrawFromPoint)
+  toolBar.items.addAll(reset,buttonTest,zoom,slider,DrawFromPoint)
   manLayout.setTop(toolBar)
 
   // Toolbar to draw any fractal from a point, either using textfields or selecting a point on the canvas

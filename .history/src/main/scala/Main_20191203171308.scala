@@ -59,9 +59,7 @@ object Main extends JFXApp {
   menuT.onAction = (event:ActionEvent) => {
     MainStage.scene = startScene
   }
-  val toolbarT = new ToolBar()
-  toolbarT.content.addAll(menuT,draw)
-  trianglePane.children.add(toolbarT)
+  trianglePane.children.add(draw)
   polygonsScene.root = trianglePane
 
   //Scene used for mandelbrot and other complex fractals

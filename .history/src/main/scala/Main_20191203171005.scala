@@ -55,13 +55,7 @@ object Main extends JFXApp {
   draw.onAction = (event:ActionEvent) => {
       poly.display("Triangles")
     }
-  val menuT = new Button("Menu")
-  menuT.onAction = (event:ActionEvent) => {
-    MainStage.scene = startScene
-  }
-  val toolbarT = new ToolBar()
-  toolbarT.content.addAll(menuT,draw)
-  trianglePane.children.add(toolbarT)
+  trianglePane.children.add(draw)
   polygonsScene.root = trianglePane
 
   //Scene used for mandelbrot and other complex fractals
