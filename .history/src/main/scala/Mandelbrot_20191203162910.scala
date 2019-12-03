@@ -3,6 +3,7 @@ import java.awt.Polygon
 import API.Complex
 import API.Dimensions
 import scalafx.scene.canvas.{Canvas, GraphicsContext}
+import scalafx.scene.paint.Color
 import scalafx.scene.paint.Color._
 
 
@@ -102,7 +103,7 @@ class Mandelbrot(size:(Int,Int)) {
       //Convert a pixel to a complex number
       val point = calculus.pixelToComplex(x,y,size._1,size._2,pX._1,pX._2,pY._1,pY._2)
       //Calcul how fast it differ, with a limit of "iteration" number of time we iterate
-      val iter = calculus.rMandel(0,point,point,iteration)
+      val iter = calculus.rMandel(0,point,new Complex(-3/4,0),iteration)
 
       //Colorisation using rgb value, might be a bit odd but it's one of the only way i found
       val maxRed = 196
@@ -118,6 +119,7 @@ class Mandelbrot(size:(Int,Int)) {
       g.fillRect(x,y,1,1)
     }
   }
+
 
   //Getters
   def getCanvas:Canvas = canvas

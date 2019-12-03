@@ -3,6 +3,7 @@ import java.awt.Polygon
 import API.Complex
 import API.Dimensions
 import scalafx.scene.canvas.{Canvas, GraphicsContext}
+import scalafx.scene.paint.Color
 import scalafx.scene.paint.Color._
 
 
@@ -118,6 +119,7 @@ class Mandelbrot(size:(Int,Int)) {
       g.fillRect(x,y,1,1)
     }
   }
+
 
   //Getters
   def getCanvas:Canvas = canvas
