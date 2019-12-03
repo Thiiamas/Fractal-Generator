@@ -74,4 +74,12 @@ class Polygons(size:(Int,Int)){
             drawnTriangle(x3,y3)
         }
     }
+
+
+
+
+    }
+
+
+
 }

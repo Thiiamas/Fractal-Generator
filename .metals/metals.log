@@ -3119,3 +3119,26 @@ INFO  compiling hellofx (1 scala source)
 INFO  time: compiled hellofx in 0.88s
 INFO  compiling hellofx (1 scala source)
 INFO  time: compiled hellofx in 0.73s
+INFO  compiling hellofx (1 scala source)
+WARN  there was one deprecation warning (since 1.0.0-R9); re-run with -deprecation for details
+INFO  time: compiled hellofx in 1.35s
+INFO  compiling hellofx (1 scala source)
+WARN  there was one deprecation warning (since 1.0.0-R9); re-run with -deprecation for details
+INFO  time: compiled hellofx in 1.8s
+INFO  compiling hellofx (1 scala source)
+WARN  there was one deprecation warning (since 1.0.0-R9); re-run with -deprecation for details
+INFO  time: compiled hellofx in 1.13s
+déc. 03, 2019 5:09:59 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+INFO  compiling hellofx (1 scala source)
+WARN  there was one deprecation warning (since 1.0.0-R9); re-run with -deprecation for details
+INFO  time: compiled hellofx in 1.67s
+INFO  compiling hellofx (1 scala source)
+WARN  there was one deprecation warning (since 1.0.0-R9); re-run with -deprecation for details
+INFO  time: compiled hellofx in 1.24s
+INFO  compiling hellofx (1 scala source)
+WARN  there was one deprecation warning (since 1.0.0-R9); re-run with -deprecation for details
+INFO  time: compiled hellofx in 1.18s
